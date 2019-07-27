@@ -1,6 +1,6 @@
 # Automobile-Price-Predictor
 
--- Alogrithms Used:
+### Alogrithms Used:
 1. Linear 
 2. Multiple
 3. Polynomial
