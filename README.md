@@ -7,7 +7,9 @@
 4. SVR
 5. Decision Tree  
 6. Random Forest
-
+ 
+## For Results of Algorithm's --- Refer Result.jpg (attached above) 
+ 
 ### Information about the dataset ####
 
 1. Title: Auto Imports Database
