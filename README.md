@@ -1,12 +1,12 @@
 # Automobile-Price-Predictor
 
 ### Alogrithms Used:
-1. Linear 
-2. Multiple
-3. Polynomial
-4. SVR
-5. Decision Tree  
-6. Random Forest
+     -  Simple Linear Regression
+     -  Multiple Linear Regression
+     -  Polynomial Linear Regression
+     -  Support Vector Regression
+     -  Decision Tree Regression 
+     -  Random Forest Regression
  
 ### Results for Different Algorithm's Used :
 ![result](https://user-images.githubusercontent.com/47252506/64109520-5d46ee80-cd9d-11e9-800c-93f9dab3ef71.png)
@@ -19,19 +19,8 @@
    - With Categorical V -- Considering columns having both Numerical Values as well as Categorical values
    - With Significant Variables -- Considering columns which are Significant(Contributing towards model accuracy)
   
-  
-  
-####  6 Algorithms:
-     -  Simple Linear Regression
-     -  Multiple Linear Regression
-     -  Polynomial Linear Regression
-     -  Support Vector Regression
-     -  Decision Tree Regression 
-     -  Random Forest Regression
       
-      
-      
- 
+   
 ### Information about the dataset ####
 
 1. Title: Auto Imports Database
