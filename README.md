@@ -8,7 +8,29 @@
 5. Decision Tree  
 6. Random Forest
  
-### For Results of Algorithm's --- Refer Result.jpg (attached above) 
+### Results for Different Algorithm's Used :
+![result](https://user-images.githubusercontent.com/47252506/64109520-5d46ee80-cd9d-11e9-800c-93f9dab3ef71.png)
+
+
+
+#### info :
+
+   - Numerical V -- Considering columns having Numerical Values Only
+   - With Categorical V -- Considering columns having both Numerical Values as well as Categorical values
+   - With Significant Variables -- Considering columns which are Significant(Contributing towards model accuracy)
+  
+  
+  
+####  6 Algorithms:
+     -  Simple Linear Regression
+     -  Multiple Linear Regression
+     -  Polynomial Linear Regression
+     -  Support Vector Regression
+     -  Decision Tree Regression 
+     -  Random Forest Regression
+      
+      
+      
  
 ### Information about the dataset ####
 
