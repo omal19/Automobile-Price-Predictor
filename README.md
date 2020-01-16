@@ -8,10 +8,6 @@
      -  Decision Tree Regression 
      -  Random Forest Regression
  
-### Results for Different Algorithm's Used :
-![result](https://user-images.githubusercontent.com/47252506/64109520-5d46ee80-cd9d-11e9-800c-93f9dab3ef71.png)
-
-
 
 #### info :
 
